@@ -41,12 +41,6 @@ portfolio/
 
 ---
 
-## 📸 Screenshots
-
-(Add screenshots of your portfolio here)
-
----
-
 ## ⚙️ How to Run Locally
 
 1. Clone the repository
